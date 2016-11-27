@@ -1,2 +1,1 @@
-name = raw_input('What is your name?\n')
-print 'Hi, %s.' % name
+print "cmp(200, 100) : ", cmp(200, 100)
